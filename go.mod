@@ -30,12 +30,12 @@ require (
 	github.com/opencontainers/image-spec v1.0.1
 	github.com/opencontainers/runtime-spec v1.0.3-0.20210326190908-1c3f411f0417
 	github.com/pkg/errors v0.9.1
-	github.com/rootless-containers/rootlesskit v0.14.2
+	github.com/rootless-containers/rootlesskit v0.14.6
 	github.com/sirupsen/logrus v1.8.1
 	github.com/tidwall/gjson v1.8.1
 	github.com/urfave/cli/v2 v2.3.0
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210426230700-d19ff857e887
+	golang.org/x/sys v0.0.0-20211107104306-e0b2ad06fe42
 	golang.org/x/term v0.0.0-20210406210042-72f3dc4e9b72
 	gotest.tools/v3 v3.0.3
 )
